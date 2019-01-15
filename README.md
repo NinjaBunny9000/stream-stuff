@@ -1,4 +1,4 @@
-# NinjaBunny9000 Twitch Stream-related Infos!ANCHOR 
+# NinjaBunny9000 Twitch Stream-related Infos!
 
 WIP But I'll have more info up here soon.
 
@@ -7,6 +7,8 @@ WIP But I'll have more info up here soon.
 ### DeepThonk
 
 Deepthonk is a Twitch & Discord chat bot written in Python.
+
+Useful commands: `!help`, `!sfx`, `!wutpoints`
 
 #### Status
 
