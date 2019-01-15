@@ -33,4 +33,4 @@ The engine architecture is mostly done. Currently working on rendering the faux 
 
 #### Links & Resources
 
-[Repo](https://github.com/NinjaBunny9000/human-error) // [Current Branch](https://github.com/NinjaBunny9000/human-error/tree/pygame-implementation) // [KanBan (features/macro)](https://trello.com/b/N04MABBU/human-error) // [Weekly Goals (micro)](https://github.com/NinjaBunny9000/stream-stuff/blob/master/deepthonk_weekly.md)
+[Repo](https://github.com/NinjaBunny9000/human-error) // [Current Branch](https://github.com/NinjaBunny9000/human-error/tree/pygame-implementation) // [KanBan (features/macro)](https://trello.com/b/N04MABBU/human-error) // [Weekly Goals (micro)](https://github.com/NinjaBunny9000/stream-stuff/blob/master/human-error_weekly.md)
