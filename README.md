@@ -20,8 +20,5 @@ Currently preparing the bot for beta release & testing.
 
 #### Links & Resources
 
-[Repo](https://github.com/NinjaBunny9000/DeepThonk/)  
- : [Current Branch](https://github.com/NinjaBunny9000/DeepThonk/tree/beta-refactor)  
- : [KanBan (features/macro)](https://trello.com/b/Jo5Ig3uQ/deepthonk)  
- : [Weekly Goals (micro)](https://github.com/NinjaBunny9000/stream-stuff/blob/master/deepthonk_weekly.md)
+[Repo](https://github.com/NinjaBunny9000/DeepThonk/) : [Current Branch](https://github.com/NinjaBunny9000/DeepThonk/tree/beta-refactor) : [KanBan (features/macro)](https://trello.com/b/Jo5Ig3uQ/deepthonk) : [Weekly Goals (micro)](https://github.com/NinjaBunny9000/stream-stuff/blob/master/deepthonk_weekly.md)
 
