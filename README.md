@@ -22,8 +22,7 @@ Currently preparing the bot for beta release & testing.
 
 [Repo](https://github.com/NinjaBunny9000/DeepThonk/) // [Current Branch](https://github.com/NinjaBunny9000/DeepThonk/tree/beta-refactor) // [KanBan (features/macro)](https://trello.com/b/Jo5Ig3uQ/deepthonk) // [Weekly Goals (micro)](https://github.com/NinjaBunny9000/stream-stuff/blob/master/deepthonk_weekly.md)
 
-
-### human-error
+## human-error
 
 Human error is a cyberpunk ASCII-inspired narrative game being developed in a custom Python game-engine utilizing PyGame as an SDL wrapper.
 
