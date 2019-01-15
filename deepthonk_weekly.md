@@ -2,9 +2,9 @@
 
 ## Legend
 
-x == complete
-/ == partially complete
-~ == current wip
+x == complete  
+/ == partially complete  
+~ == current wip  
 
 ## Tasks
 
