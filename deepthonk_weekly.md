@@ -19,16 +19,16 @@ x == complete
 - [~] Refactor THE General™
   - [x] Modularize Betterrer™  
   - [x] Clean up code/comments
-  - [~] .form() ==> f-strings
+  - [x] .form() ==> f-strings
 - [x] **Streamelements API**
   - [x] Add/remove points
   - [x] Betting in games
   - [x] Gifting points
+- [x] Fix audio freqs!
 - [ ] LOGGING (finally!)
 - [ ] CMDs DOCUMENT/README
   - [ ] Document 'enough'
   - [ ] Notes about Anchors
-- [ ] Fix audio freqs!
 - [ ] SFX Timeouts
 - [ ] Song RECs <== ????????
   - [ ] Integrate Points
@@ -38,6 +38,9 @@ x == complete
 - [x] Yaml OBS Scene > List
 - [ ] Spotify History List (UI)
 - [ ] Raid call! (random list0)
+- [ ] Make !task .txt-based
+- [ ] Remove db_stuffs
+- [ ] Make sure .txt generating
 
 ## RAID Game!!
 
@@ -70,6 +73,7 @@ x == complete
 - [ ] !fb/!ww cost for subs?
   - [ ] or do cooldown/time?
 - [ ] !doublerad
+- [ ] !note (to self)
 
 
 
