@@ -2,9 +2,9 @@
 
 ## Legend
 
-x == complete  
-/ == partially complete  
-~ == current wip  
+x == complete
+/ == partially complete
+~ == current wip
 
 ## Tasks
 
@@ -16,21 +16,22 @@ x == complete
 - [x] Add SFX (freq?)
 - [x] !FAQ auto-response
 - [/] RAID Game
-- [~] Refactor THE General™
-  - [x] Modularize Betterrer™  
+- [x] Refactor THE General™
+  - [x] Modularize Betterrer™
   - [x] Clean up code/comments
   - [x] .form() ==> f-strings
 - [x] **Streamelements API**
   - [x] Add/remove points
   - [x] Betting in games
   - [x] Gifting points
+  - [x] Fix @'s on names
 - [x] Fix audio freqs!
 - [ ] LOGGING (finally!)
 - [ ] CMDs DOCUMENT/README
   - [ ] Document 'enough'
   - [ ] Notes about Anchors
-- [ ] SFX Timeouts
-- [ ] Song RECs <== ????????
+- [ ] SFX Timeouts (adjusting)
+- [ ] Song REQs <== ????????
   - [ ] Integrate Points
 - [ ] HYE?
 - [ ] Hostbot betting game
@@ -38,9 +39,6 @@ x == complete
 - [x] Yaml OBS Scene > List
 - [ ] Spotify History List (UI)
 - [ ] Raid call! (random list0)
-- [ ] Make !task .txt-based
-- [ ] Remove db_stuffs
-- [ ] Make sure .txt generating
 
 ## RAID Game!!
 
@@ -73,7 +71,6 @@ x == complete
 - [ ] !fb/!ww cost for subs?
   - [ ] or do cooldown/time?
 - [ ] !doublerad
-- [ ] !note (to self)
 
 
 
