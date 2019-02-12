@@ -1,0 +1,43 @@
+## Recently Completed / Archived
+
+- [x] Update FAQ as needed
+  - [x] Soundcloud link?
+  - [x] What's the deal with markdown?
+- [x] Fix !shoutouts ==> !so
+- [x] FIX THE RAID GAME OMG
+  - [x] Fix raid ignoring SE bot
+  - [x] Make raiders on rite team
+  - [x] Make streamer on rite tm
+- [x] FIX !strike system
+- [x] Fix #smrt
+- [x] WTF is up with the bot??
+- [x] Disable defender reg debug
+- [x] Timout ==> minutes + reason
+- [x] FAQ >> Content
+- [x] Github Push?
+- [x] Wot branch tho? PR
+- [x] Strike SFX (@jigo)
+- [x] Movie night CMD!
+- [x] Add SFX (freq?)
+- [x] !FAQ auto-response
+- [/] RAID Game
+- [x] Refactor THE General™
+  - [x] Modularize Betterrer™
+  - [x] Clean up code/comments
+  - [x] .form() ==> f-strings
+- [x] Streamelements API
+  - [x] Add/remove points
+  - [x] Betting in games
+  - [x] Gifting points
+  - [x] Fix @'s on names
+- [x] Fix audio freqs!
+- [x] Fix missing sfx (strikes)
+- [x] !earworm all
+- [x] Better way to restart it
+- [x] Yaml OBS Scene > List
+- [x] Rewards sfx not working
+- [x] SFX Timeouts (adjusting)
+- [x] Scoring system
+  - [x] Split up teams
+  - [x] 100hp ==> 500hp
+  - [x] Balance damage per team
