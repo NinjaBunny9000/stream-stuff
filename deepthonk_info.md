@@ -12,9 +12,9 @@ Bun's the greatest fucking programmer there ever fucking was (!smrt) and we're a
 **Building a Discord bot in Python**
 
 
-
+===================================
 >> Kick your feet back and relax! ®
-
+===================================
 
 
 #### Useful cmds and L I N K S ####

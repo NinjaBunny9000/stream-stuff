@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#00BCD4",
+        "list.activeSelectionForeground": "#00BCD4",
+        "list.inactiveSelectionForeground": "#00BCD4",
+        "list.highlightForeground": "#00BCD4",
+        "scrollbarSlider.activeBackground": "#00BCD450",
+        "editorSuggestWidget.highlightForeground": "#00BCD4",
+        "textLink.foreground": "#00BCD4",
+        "progressBar.background": "#00BCD4",
+        "pickerGroup.foreground": "#00BCD4",
+        "tab.activeBorder": "#00BCD4",
+        "editorLineNumber.foreground": "#666666",
+        "editorLineNumber.activeForeground": "#fcb553"
+    },
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 17,
+    "editor.lineHeight": 21,
+    "editor.tokenColorCustomizations": {
+        "comments": "#666666",
+        "strings": "#3a9183",
+        "functions": "#a984ff",
+        "variables": "#b5b5b5"
+    },
+    "dimmer.context": 5,
+    "dimmer.enabled": true,
+    "dimmer.opacity": 90,
+    "editor.cursorStyle": "block",
+    "editor.minimap.enabled": false
+}

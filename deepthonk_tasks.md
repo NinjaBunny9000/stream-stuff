@@ -8,18 +8,21 @@ x == complete
 
 - [~] Discord bot basics
   - [x] Up & Running!
-  - [~] Review docs
-  - [x] On `user_join`??
+  - [/] Review docs
+  - [/] On `user_join`??
     - [x] Assign roles?
     - [ ] Assign via reactions
   - [~] Any other fun ideas?
-- [ ] DeepThonk - #FocusMode™, esq.
+- [~] DeepThonk - #FocusMode™, esq.
+- [ ] Tie !bigups to !reward
+- [ ] Auto-post in Discord when live
 - [ ] Continuous testing of Raid game
   - [ ] Adjust balance as needed
+- [ ] Get Twitch DM's working?
 
 ## What's up next?? (Inbox)
 
-- [~] Spotify History List (UI)
+- [x] Spotify History PLAYLIST!!
 - [x] Basic strawpoll command
   - [ ] Fine-tuning!
 - [ ] CMDs DOCUMENT/README
@@ -60,4 +63,4 @@ x == complete
 - [ ] Followers can buy !flashbangs or !weewoos
 - [ ] !fb/!ww cost for subs?
   - [ ] or do cooldown/time?
-- [ ] !doublerad
+- [ ] !doublerad  
