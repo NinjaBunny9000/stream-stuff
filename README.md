@@ -19,16 +19,19 @@ Using a more robust library now that plays nice with Discord and is being upkept
 
 - [Repo](https://github.com/NinjaBunny9000/DeepThonk/)
 - [Dev Branch](https://github.com/NinjaBunny9000/DeepThonk/tree/nb9k-dev)
+
 ---
 
-### human-error
+### Custom IRL Rig
 
-Human error is a cyberpunk ASCII-inspired narrative game being developed in a custom Python game-engine utilizing PyGame as an SDL wrapper.
+Taking cues from the GunRun Backpack, we're building a more afforable IRL rig with a better pricepoint, more functionality, better documented, and with a lower barrier of entry so more people can get out there and share their experiences with the world!ANCHOR 
 
 #### Status
 
-Currently on hold until DeepThonk™ is ready for release. _The engine architecture is mostly done. Currently working on rendering the faux command-line terminal._
+Currently field-testing. Live streams/tests occuring multiple times a week atm while we test improvements. Documentation to begin soon.
 
 #### Links & Resources
 
-[Repo](https://github.com/NinjaBunny9000/human-error) // [Current Branch](https://github.com/NinjaBunny9000/human-error/tree/pygame-implementation)
+- [Test Streams](https://www.twitch.tv/ninjabunny9000/videos?filter=archives&sort=time)
+- Repo (none public yet)
+- Documentation (coming soon)
