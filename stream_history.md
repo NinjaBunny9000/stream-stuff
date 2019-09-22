@@ -17,7 +17,7 @@
 **Language(s):** Python, JavaScript  
 **Tech/Lib(s)** Flask, TwitchIO, OBS, Streamdek  
 
-✔ Made my face huge. You're lookin at it. *finger guns*  
+✔ Made my face huge. You're lookin at it. *\*finger guns\**  
 ✔ Get oggs and wavs working with SFX (audio hooks)
 
 ---
