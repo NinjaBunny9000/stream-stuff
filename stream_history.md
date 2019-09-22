@@ -44,7 +44,7 @@
 
 **Topic(s)** Live Coding, Stream Production, Automation, SYSOPS    
 **Language(s):** Python, JavaScript  
-**Tech/Lib(s)** Flask, TwitchIO, Linux Ubuntu, SSH
+**Tech/Lib(s)** Flask, TwitchIO, Linux Ubuntu, SSH, OBS
 
 ✔ Witness an actaul thunderstorm  
 ✔ Deploying bot app & server to a DO droplet  
@@ -56,9 +56,9 @@
 
 **Link:** [Twitch VOD](https://www.twitch.tv/videos/480267511)
 
-**Topic(s)** Live Coding, Stream Production, Automation, SYSOPS    
+**Topic(s)** Live Coding, Stream Production  
 **Language(s):** Python, JavaScript  
-**Tech/Lib(s)** Flask, TwitchIO
+**Tech/Lib(s)** Flask, TwitchIO, OBS
 
 ✔ SFX & TTS queueing for the browser source  
 ✔ `!sfx` list command
