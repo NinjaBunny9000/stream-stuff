@@ -45,9 +45,9 @@
 **Topic(s)** Live Coding, Stream Production, Automation, SYSOPS    
 **Language(s):** Python, JavaScript  
 
-✔ Witness an actaul thunderstorm
-✔ Deploying bot app & server to a DO droplet
-✔ Repair TTS on auto scene-switching for IRL streams
+✔ Witness an actaul thunderstorm  
+✔ Deploying bot app & server to a DO droplet  
+✔ Repair TTS on auto scene-switching for IRL streams  
 
 ---
 
