@@ -1,26 +1,25 @@
 # NinjaBunny9000 Twitch Stream-related Infos!
 
-WIP But I'll have more info up here soon.
-
 ## Useful Links
 
-[Master Project / KanBan Board](https://trello.com/b/Fm4Q3mBx/ninjabunny9000-stream-stuffs)
+- [Live Coding Stream History and Achive]()
+
+
 
 ## Current Projects
-
 ### DeepThonk
 
 Deepthonk is a Twitch & Discord chat bot written in Python.
 
-Useful commands: `!help`, `!sfx`, `!wutpoints`
-
 #### Status
 
-Currently preparing the bot for beta release & testing.
+Using a more robust library now that plays nice with Discord and is being upkept. Started a rewrite this summer. Currently, implementing features back into the rewrite and preparing for release.
 
 #### Links & Resources
 
-[Repo](https://github.com/NinjaBunny9000/DeepThonk/) // [Current Branch](https://github.com/NinjaBunny9000/DeepThonk/tree/beta-refactor) // [KanBan (features/macro)](https://trello.com/b/Jo5Ig3uQ/deepthonk) // [Weekly Goals (micro)](https://github.com/NinjaBunny9000/stream-stuff/blob/master/deepthonk_weekly.md)
+- [Repo](https://github.com/NinjaBunny9000/DeepThonk/)
+- [Dev Branch](https://github.com/NinjaBunny9000/DeepThonk/tree/nb9k-dev)
+---
 
 ### human-error
 
@@ -28,8 +27,8 @@ Human error is a cyberpunk ASCII-inspired narrative game being developed in a cu
 
 #### Status
 
-The engine architecture is mostly done. Currently working on rendering the faux command-line terminal.
+Currently on hold until DeepThonk™ is ready for release. _The engine architecture is mostly done. Currently working on rendering the faux command-line terminal._
 
 #### Links & Resources
 
-[Repo](https://github.com/NinjaBunny9000/human-error) // [Current Branch](https://github.com/NinjaBunny9000/human-error/tree/pygame-implementation) // [KanBan (features/macro)](https://trello.com/b/N04MABBU/human-error) // [Weekly Goals (micro)](https://github.com/NinjaBunny9000/stream-stuff/blob/master/human-error_weekly.md)
+[Repo](https://github.com/NinjaBunny9000/human-error) // [Current Branch](https://github.com/NinjaBunny9000/human-error/tree/pygame-implementation)
