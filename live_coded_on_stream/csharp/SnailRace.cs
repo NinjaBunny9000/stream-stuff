@@ -1,4 +1,14 @@
-﻿using System;
+﻿/**
+ * Written on 12-6-19 w/@AlSweigart and @Jigokuniku
+ * C# version of https://github.com/asweigart/PythonStdioGames/blob/master/src/gamesbyexample/snailrace.py
+ * VOD/Replay: pt1: https://www.twitch.tv/videos/518135735 pt2: https://www.twitch.tv/videos/518190637
+ * Recap Blog: *coming soon*
+ * https://twitch.tv/ninjabunny9000
+ * https://twitch.tv/alsweigart
+ * https://twitch.tv/jigokuniku
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Threading;
 
