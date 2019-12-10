@@ -2,7 +2,7 @@
  * Written on 12-6-19 w/@AlSweigart and @Jigokuniku
  * C# version of https://github.com/asweigart/PythonStdioGames/blob/master/src/gamesbyexample/snailrace.py
  * VOD/Replay: pt1: https://www.twitch.tv/videos/518135735 pt2: https://www.twitch.tv/videos/518190637
- * Recap Blog: *coming soon*
+ * Recap Blog: https://dev.to/ninjabunny9000/learning-c-w-alsweigart-live-coding-recap-3mb6
  * https://twitch.tv/ninjabunny9000
  * https://twitch.tv/alsweigart
  * https://twitch.tv/jigokuniku

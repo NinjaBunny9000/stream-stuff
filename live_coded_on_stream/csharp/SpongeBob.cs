@@ -1,10 +1,19 @@
-﻿using System;
+﻿/**
+ * Written on 12-6-19 w/@AlSweigart and @Jigokuniku
+ * C# version of https://github.com/asweigart/PythonStdioGames/blob/master/src/gamesbyexample/spongetext.py
+ * VOD/Replay: pt1: https://www.twitch.tv/videos/518135735 pt2: https://www.twitch.tv/videos/518190637
+ * Recap Blog: https://dev.to/ninjabunny9000/learning-c-w-alsweigart-live-coding-recap-3mb6
+ * https://twitch.tv/ninjabunny9000
+ * https://twitch.tv/alsweigart
+ * https://twitch.tv/jigokuniku
+ */
+
+using System;
 
 namespace SpongeBob
 {
     class Program
     {
-        /// <summary>convert normal text to spongebob text</summary>
         static void Main(string[] args)
         {
             Console.WriteLine("c# sPoNgEtExTbY aL sWeIGaRt aNd niNjAbuNnY9000. cOmeNtEr YoUr MeSsAgE:");
@@ -19,11 +28,8 @@ namespace SpongeBob
 
             input_text = Console.ReadLine();
 
-            // Console.WriteLine("You entered {0}", input_text); // DEBUG
-
             // for every character in the text
-            foreach (var c in input_text)
-            {
+            foreach (var c in input_text) {
                 // check if it's an upper or lower
                 if (use_upper) {
                     output_text += char.ToUpper(c);  // change it to upper
@@ -39,9 +45,7 @@ namespace SpongeBob
                 }
             }
 
-            // print to console
             Console.WriteLine(output_text);
-            // Clipboard.SetText(output_text); // PROBLEM FOR LATER ME
         }
     }
 }
